@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Joachim92
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning design patterns
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me joaquin92.rm@gmail.com
 
